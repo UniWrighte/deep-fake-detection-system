@@ -1,5 +1,5 @@
-pyschological warfare against a private citizen is a violation of human rights, this system serves to detect deepfakes used to perform psychological manipulate of the population or individuals in the population.
+Future advanced AI systems and nation state actors can disseminate false information or control the flow of information in an undemocratic way.
 
-A distributed system of servers/containers used to compare video data to prevent the use of deep fakes in psychological warfare against freedom of speech.
+Content verification to prevent the proliferation of fake/false news is needed to prevent the loss of information integrity in an age of deep fakes, etc.
 
 TODO - add docker container and helm chart
