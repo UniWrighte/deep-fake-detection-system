@@ -1,0 +1,11 @@
+{
+  "name": "anti-psychological-warfare-video-checking-system",
+  "version": "1.0.0",
+  "description": "pyschological warfare against a private citizen is a violation of human rights, this system serves to detect deepfakes used to perform psychological manipulate of the population or individuals in the population",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
